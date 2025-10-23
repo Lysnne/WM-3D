@@ -1,0 +1,39 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# Packages auto-generated
+Assets/Plugins/Editor/JetBrains*
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Crash/Profiler
+*.stacktrace
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.hash
+
+# Cache (V2)
+*/[Aa]rtifactDB
+*/[Ss]criptAssemblies
+
